@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+
+}
+
+.wrap{
+    background: #fff;
+    width: 600px;
+    height: 900px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.widgets {
+    background: silver;
+    width: 600px;
+    height: 190px;
+}
+
+.bigwidgetbox{
+    background: #fff;
+    width: 600px;
+    height: 190px;
+    display: flex;
+    justify-content: space-between;
+    align-items: ;
+}
+
+.bigwidget {
+    background: darkgrey;
+    width: 180px;
+    height: 190px;
+}
+
+.contact {
+    background: silver;
+    width: 600px;
+    height: 490px;
+}
