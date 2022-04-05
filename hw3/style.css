@@ -26,7 +26,6 @@ body{
     display: flex;
     flex-wrap: wrap;
     width: 90%;
-    height: 20%;
     background: #b8b5bb;
     margin: 20px 5px;
     border-radius: 5px;
@@ -53,6 +52,7 @@ body{
     justify-content: flex-start;
     width: 75%;
     height: 100%;
+
 }
 
 h2{
